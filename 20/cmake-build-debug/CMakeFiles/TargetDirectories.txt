@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/terver/dz1/gmurman/20/cmake-build-debug/CMakeFiles/20.dir
+C:/Users/user/CLionProjects/terver/dz1/gmurman/20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/terver/dz1/gmurman/20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
