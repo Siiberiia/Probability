@@ -1,0 +1,22 @@
+{
+  "h": 1.0,
+  "n": 100,
+  "Y": 5.0,
+  "K": 5,
+  "l": 0.0,
+  "use": "uniform",
+  "distributions": {
+    "uniform": {
+      "params": { "a": -1, "b": 2 }
+    },
+    "binomial": {
+      "params": { "n": 5, "p": 0.5 }
+    },
+    "geometric": {
+      "params": { "p": 0.3, "max": 10 }
+    },
+    "triangular": {
+      "params": { "a": -2, "b": 3, "c": 0 }
+    }
+  }
+}
